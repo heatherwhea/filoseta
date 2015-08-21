@@ -1,0 +1,50 @@
+
+In the language of your choice, write code that prints out
+the mean or mode of the contents of the files in data/.
+
+Feel free to use any resources which would be available in a
+typical office environment (docs, websites, books, etc.), but
+please work on your own.  Consulting a rubber duck is of course
+always OK.  https://en.wikipedia.org/wiki/Rubber_duck_debugging
+
+
+Additional (optional) details:
+------------------------------------------
+
+- This is a short and minimal exercise in typical sysadmin
+  duct tape fashion.  Do not worry about test cases, in line
+  help, documentation, etc..  Focus on a quick solution to
+  the core problem, it does not need to be elegant.
+
+- You decide on whether to solve mean or mode, no need to do
+  both.  The choice is offered since mean is easier in some
+  languages and mode in others.
+
+- Files in data/ contain one or more space separated
+  rational numbers in decimal format.  The data may change,
+  but you can rely on the format.
+
+- For the purpose of this exercise, it can be assumed the
+  files originate from a trusted data stream and are not
+  actively malicious.  Really, no tricks, it is a basic data
+  munging exercise.
+
+- Pick any language.  Examples of options follow, but please
+  don't feel restricted to this.
+    shell: bash, zsh, tcsh, ksh, PowerShell, ...
+    interpreted/compiled: python, perl, php, ruby, C, C++, Java, fortran, befunge, whitespace, ...
+
+  Note: I don't recommend choosing befunge, but if that is what
+  you think best, go for it.  (For that matter, scheme is not
+  recommended either (but that is because of a (personal)
+  preference against many (nested) parenthesis() ).)
+  Really, any language except pseudo-code.
+
+- An example outputs for the files currently in data/.
+
+    $ ./solution
+    mean: 2.5
+    mode: 1
+
+  This shows both mean and mode only so you have the
+  correct values for the current files.  Pick one.

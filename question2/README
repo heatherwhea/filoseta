@@ -1,0 +1,18 @@
+Create documentation in the form of a HowTo/FAQ answer
+instructing a user on the process of securely erasing their hard
+drive using DBAN (http://sourceforge.net/projects/dban/).
+
+This can be in a PDF, html page, or other suitable static
+format of your choice.  To save time, don't worry about
+making pictures, just put brief descriptive text of what the
+picture would show.  [person's hand with finger pointing to
+this paragraph]
+
+This is to get a sense of your communication skills.  If you
+have an existing FAQ or HowTo that you have written which
+conveys a technical operation to an end user, please feel
+free to put that in here instead.
+
+
+Side note:  Georgia Tech does not securely wipe hard drives,
+we physically destroy them in a scary looking metal shredder.
